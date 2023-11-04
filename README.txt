@@ -12,4 +12,7 @@ licenciamento de algum componente. Por favor, seja responsável na utilização 
 
 
 teste git
-teste
+teste disponíveis
+
+verificando o funcionanemto do gi
+jjhjhjh
