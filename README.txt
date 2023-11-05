@@ -16,3 +16,6 @@ teste disponíveis
 
 verificando o funcionanemto do gi
 jjhjhjh
+
+comando git remote
+comando git push
